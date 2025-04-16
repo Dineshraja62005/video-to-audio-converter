@@ -50,6 +50,4 @@
     "typescript": "^4.7.4"
   },
   "proxy": "http://backend:8080"
-  "start": "HOST=0.0.0.0 react-scripts start"
-
 }
