@@ -30,3 +30,4 @@ services:
           path: ../../frontend/package.json
     ports:
       - 3001:3000
+    command: react-scripts start --host 0.0.0.0
